@@ -3,6 +3,7 @@
 A simple and interactive Flutter application that recommends songs based on the user's current mood. Users can choose from **Happy**, **Sad**, **Angry**, or **Relax** moods, and the app instantly displays a curated list of songs. Selecting a song opens it directly in **YouTube** for playback.
 
 ---
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📱 Features
 
